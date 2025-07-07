@@ -1,22 +1,7 @@
-body {
-  font-family: Arial, sans-serif;
-  padding: 20px;
-  background: #f5f5f5;
-}
-header {
-  background: #222;
-  color: #fff;
-  padding: 10px;
-  text-align: center;
-}
-nav a {
-  color: #fff;
-  margin: 0 10px;
-  text-decoration: none;
-}
-.gallery img, .qr img {
-  margin: 10px;
-  border: 2px solid #ccc;
-  border-radius: 10px;
-  width: 200px;
-}
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fffbe7; }
+header { background: #4b2e2e; color: white; padding: 1em; text-align: center; }
+nav a { margin: 0 1em; color: #ffd700; text-decoration: none; }
+.gallery { text-align: center; padding: 2em; }
+.gallery img { width: 200px; margin: 1em; border-radius: 10px; }
+footer { background: #333; color: #fff; text-align: center; padding: 1em; margin-top: 2em; }
